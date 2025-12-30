@@ -1,7 +1,7 @@
 {
 	"id": "jda",
 	"name": "JDA",
-	"version": "${project.version}",
+	"version": "${jda.version}",
 	"description": "A simple Velocity plugin with JDA integration.",
 	"main": "xyz.alonefield.jda.velocity.JDAVelocity"
 }

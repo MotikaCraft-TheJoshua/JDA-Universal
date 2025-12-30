@@ -11,7 +11,7 @@ import xyz.alonefield.jda.JDACommon;
 @Plugin(
     id = "jda",
     name = "JDA",
-    version = "${project.version}"
+    version = "5.4.0"
 )
 public class JDAVelocity {
 
