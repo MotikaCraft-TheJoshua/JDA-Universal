@@ -12,7 +12,7 @@
     <description>A simple multiplatform Minecraft plugin with JDA integration.</description>
 
     <properties>
-        <jda.version>6.2.0</jda.version>
+        <jda.version>5.6.1</jda.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
